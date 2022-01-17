@@ -1,0 +1,4 @@
+1) Make 3 projects; app, library, tests
+2) get params and validate
+3) get all suitable-length words from dictionary into new structure
+---
